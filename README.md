@@ -15,7 +15,7 @@ Completed by: Divyam :)
 
 2. **`CodeBook.md`**: This file describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-3. **`tidy_data.txt`**: This file contains the final tidy data set with the average of each variable for each activity and each subject.
+3. **`TidyData.txt`**: This file contains the final tidy data set with the average of each variable for each activity and each subject.
 
 ## How to Run the Script
 
